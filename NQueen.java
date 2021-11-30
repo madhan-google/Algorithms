@@ -1,6 +1,7 @@
 import java.io.*;
 import java.util.*;
 class NQueen{
+	//just test
 	public static boolean isSafe(int[][] board, int row, int col, int n){
 		//row
 		for( int i=col; i>=0; i-- )
