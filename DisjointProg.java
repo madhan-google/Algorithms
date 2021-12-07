@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+//just do merge
 class DisjointProg{
 	static int[] parent, rank;
 	static int n;
